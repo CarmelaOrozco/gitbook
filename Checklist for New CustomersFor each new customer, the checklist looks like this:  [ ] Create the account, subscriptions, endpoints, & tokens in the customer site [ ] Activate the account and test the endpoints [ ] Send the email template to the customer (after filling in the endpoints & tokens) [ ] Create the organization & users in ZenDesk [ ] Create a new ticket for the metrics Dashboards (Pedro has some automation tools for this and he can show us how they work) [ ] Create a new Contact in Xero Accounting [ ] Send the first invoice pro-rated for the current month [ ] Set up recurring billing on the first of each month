@@ -1,0 +1,9 @@
+For each new customer, the checklist looks like this:
+[ ] Create the account, subscriptions, endpoints, & tokens in the customer site
+[ ] Activate the account and test the endpoints
+[ ] Send the email template to the customer (after filling in the endpoints & tokens)
+[ ] Create the organization & users in ZenDesk
+[ ] Create a new ticket for the metrics Dashboards (Pedro has some automation tools for this and he can show us how they work)
+[ ] Create a new Contact in Xero Accounting
+[ ] Send the first invoice pro-rated for the current month
+[ ] Set up recurring billing on the first of each month
